@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mikey gasidet](https://www.facebook.com/profile.php?id=100006501633430)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikey gasidet" height="30" width="40" /></a>
-<a href="https://instagram.com/mk.yekim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk.yekim" height="30" width="40" /></a>
+<a href="https://instagram.com/mk.mikeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk.mikeyy" height="30" width="40" /></a>
 <a href="https://discord.gg/7311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7311" height="30" width="40" /></a>
 </p>
 
