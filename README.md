@@ -1,6 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/147c979fdea8239e1bbbf88c099408a3edd748f04c265b4c24d88a72ada7f2cb/68747470733a2f2f6173322e667463646e2e6e65742f76322f6a70672f30312f39332f37352f39332f313030305f465f3139333735393336345f42436b54685179496564485a624a486d6c5257713831775344685745585764592e6a7067)](https://www.youtube.com/watch?v=HpYdA-06jTc)
 <h1 align="center">Hi 👋, I'm Gasidet Boonyasakdanon</h1>
-<h3 align="center">My first name and your last name would sound great together! 🤭</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasidet2501&label=Profile%20views&color=0e75b6&style=flat" alt="gasidet2501" /> </p>
