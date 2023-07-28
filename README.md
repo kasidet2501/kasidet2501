@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mikey gasidet]([https://www.facebook.com/profile.php?id=100006501633430](https://www.facebook.com/profile.php?id=100006501633430&__cft__[0]=AZXHVzFcleRDL3dVBdpMw7UQ2zYbM7YXNIUmLxhfIc7JxO-q3wddAEW9SNZHGTViSUI8996fhtf1u67ol4y0YekWAyiNStzQNXG4LSmecdL4PLbr-oJiKhItkCfdKVUCDV63lZ8uGg_AJ0_07BFqFO7tgm83QcHkbj9kK5drAf5TQw&__tn__=-]C%2CP-R))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikey gasidet" height="30" width="40" /></a>
+<a href="[https://fb.com/mikey gasidet]([https://www.facebook.com/profile.php?id=100006501633430](https://www.facebook.com/profile.php?id=100006501633430&__cft__[0]=AZXHVzFcleRDL3dVBdpMw7UQ2zYbM7YXNIUmLxhfIc7JxO-q3wddAEW9SNZHGTViSUI8996fhtf1u67ol4y0YekWAyiNStzQNXG4LSmecdL4PLbr-oJiKhItkCfdKVUCDV63lZ8uGg_AJ0_07BFqFO7tgm83QcHkbj9kK5drAf5TQw&__tn__=-]C%2CP-R))](https://www.facebook.com/profile.php?id=100006501633430&mibextid=b06tZ0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikey gasidet" height="30" width="40" /></a>
 <a href="https://instagram.com/mk.mikeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk.mikeyy" height="30" width="40" /></a>
 <a href="https://discord.gg/7311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7311" height="30" width="40" /></a>
 </p>
