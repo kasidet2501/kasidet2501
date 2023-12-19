@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasidet2501&show_icons=true&locale=en&layout=compact" alt="gasidet2501" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gasidet2501&show_icons=true&locale=en" alt="gasidet2501" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gasidet2501&show_icons=true&locale=en" alt="gasidet2501" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gasidet2501&" alt="gasidet2501" /></p>
