@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Mikey from Thailand.<br><br>- 🔭 I’m studying at King Mongkut's University of Technology North Bangkok (KMUTNB)<br>- 📚 I’m a junior at KMUTNB University.</p>
+<p align="left">I'm Mikey from Thailand.<br><br>- 🎓 I’m studying at King Mongkut's University of Technology North Bangkok (KMUTNB)<br>- 📚 I’m a junior at KMUTNB University. <br>- 👩🏻‍💻 I'm currently studying Information technology.</p>
 
 ###
 
